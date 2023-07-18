@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AHMET KEMAL</h1>
 <h3 align="center">Jr. Backend Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **PHP, Laravel**
+- 🌱 I’m currently learning **JS, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmetkemal12](https://github.com/ahmetkemal12)
 
